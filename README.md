@@ -1,4 +1,4 @@
-# testbloc
+# TestBloc
 
 - Application Flutter for test Bloc concepts. This application uses the viacep api to search for the location of the zip code informed through an http request
 
